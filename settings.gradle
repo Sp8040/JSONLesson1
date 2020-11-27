@@ -1,0 +1,4 @@
+rootProject.name='JSONLesson1'
+include ':app'
+include ':jsonlesson12'
+include ':jsonlesson13'
